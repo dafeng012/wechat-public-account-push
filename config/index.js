@@ -42,7 +42,7 @@ export const config = {
     {
       name: "老婆1", 
       id: "of5bp580wfz7Eve0a5BBZMQUcXlY",
-      useTemplateId: "5km6sSrxWKzQrIFGy8hitL3_TUBgp51ZVT4rFesVbfg",
+      useTemplateId: "1RB3ZfxZ7lWlbt8fhZ0n8no-UlquJRRC2YaymS9ZL_c",
       province: "河南",
       city: "郑州",
       openUrl: "http://svlp.gitee.io/najiaone"
