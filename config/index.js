@@ -4,10 +4,10 @@ export const config = {
    */
 
   // 公众号APP_ID
-  APP_ID: "",
+  APP_ID: "wx001f441019a84fe5",
 
   // 公众号APP_SECRET
-  APP_SECRET: "",
+  APP_SECRET: "436e222e493f880b3e733c33e02b5c84",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -27,11 +27,11 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "老婆1",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxOO6VskY2v40Kuf5ywIZVRM3puXhk",
+      id: "of5bp580wfz7Eve0a5BBZMQUcXlY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Wue80GrtY1nAi5a4tam4FDxZF59WNx9pwcBc06LMpANnu8",
+      useTemplateId: "5km6sSrxWKzQrIFGy8hitL3_TUBgp51ZVT4rFesVbfg",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -41,11 +41,11 @@ export const config = {
     }, 
     {
       name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
+      id: "of5bp580wfz7Eve0a5BBZMQUcXlY",
+      useTemplateId: "5km6sSrxWKzQrIFGy8hitL3_TUBgp51ZVT4rFesVbfg",
+      province: "河南",
+      city: "郑州",
+      openUrl: "http://svlp.gitee.io/najiaone"
     }, 
     {
       name: "老婆2",
